@@ -13,10 +13,10 @@ a {
     color: #96CA2D;
     text-decoration: none;
 }
-#navigation li {
+li {
   display: inline;
 }
-#navigation li a {
+li a {
   padding: 5px 20px ;
   background: #CC0000 ;
   color: #FFFFFF ;
@@ -24,7 +24,7 @@ a {
   text-align: center ;
   text-decoration: none ;
 }
-#navigation li a:hover, #navigation li a:focus, #navigation li a:active {
+li a:hover, li a:focus, li a:active {
   background: #009900;
   text-decoration: underline;
 }
