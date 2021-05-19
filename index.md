@@ -6,9 +6,7 @@
 </head>
 
 <body>
-    <header>
-        <h1>La Florentina</h1>
-    </header>
+    <h1>La Florentina</h1>
     <h2>Pizzéria</h2>
     <nav>
         <ul>
