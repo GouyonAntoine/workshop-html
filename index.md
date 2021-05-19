@@ -8,8 +8,8 @@
 <body>
     <header>
         <h1>La Florentina</h1>
-        <h2>Pizzéria</h2>
     </header>
+    <h2>Pizzéria</h2>
     <nav>
         <ul>
             <li><a href="#">Accueil</a></li>
